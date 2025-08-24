@@ -3,7 +3,7 @@ const student = {};
 student.firstName = "Petr"; 
 student.lastName = "Perviy";
 student.firstName = "Petya";
-//delete student.firstName;
+delete student.firstName;
 // Release 1
 const group = [];
 group.push(student);
